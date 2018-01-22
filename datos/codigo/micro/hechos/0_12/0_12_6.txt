@@ -1,0 +1,3 @@
+mbr<-ck
+mar<-ir
+mem: write

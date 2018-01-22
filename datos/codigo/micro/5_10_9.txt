@@ -1,0 +1,3 @@
+b1<-bh
+b2<-ch
+alu: sub

@@ -1,0 +1,3 @@
+mbr<-bx
+mar<-bl
+mem: write

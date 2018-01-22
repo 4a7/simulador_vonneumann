@@ -1,0 +1,3 @@
+b1<-dx
+b2<-ax
+alu: sub

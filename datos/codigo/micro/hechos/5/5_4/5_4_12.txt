@@ -1,0 +1,5 @@
+mar<-ir
+mem: read
+b1<-mbr
+b2<-al
+alu: sub

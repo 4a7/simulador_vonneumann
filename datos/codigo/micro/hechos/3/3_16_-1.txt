@@ -1,0 +1,10 @@
+b1<-ax
+b2<-ax
+alu: sub
+test cf,9
+b1<-pc
+b2<-ir
+alu: add
+pc<-b3
+ax<-ax
+ax<-ax

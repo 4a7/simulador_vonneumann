@@ -1,0 +1,4 @@
+b1<-ax
+b2<-ax
+alu: sub
+if<-b3

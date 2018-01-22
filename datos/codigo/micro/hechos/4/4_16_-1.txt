@@ -1,0 +1,7 @@
+test zf,6
+b1<-pc
+b2<-ir
+alu: add
+pc<-b3
+ax<-ax
+ax<-ax

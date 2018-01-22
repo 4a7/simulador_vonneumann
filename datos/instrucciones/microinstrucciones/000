@@ -1,0 +1,9 @@
+b1<-ax
+b2<-bx
+mar<-ch
+alu: add
+mem read
+test: flag,12
+in
+out
+

@@ -1,0 +1,3 @@
+b1<-ir
+b2<-cl
+alu: sub
