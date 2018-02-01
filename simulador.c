@@ -31,6 +31,7 @@
 16: es inmediato
 */
 /*
+
 cc simulador.c `pkg-config --cflags --libs gtk+-2.0`
 */
 #include "simulador.h"
