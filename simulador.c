@@ -31,9 +31,9 @@
 16: es inmediato
 */
 /*
-cc n.c `pkg-config --cflags --libs gtk+-2.0`
+cc simulador.c `pkg-config --cflags --libs gtk+-2.0`
 */
-#include "Simulador-Von-Newman-Villacis-Juan.h"
+#include "simulador.h"
 int MEMSIZE=256;
 int ETAPA_FETCH=1;
 int NUMERO_LINEA=1;
